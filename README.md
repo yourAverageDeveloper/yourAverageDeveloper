@@ -20,7 +20,7 @@ When I was in university, I found out soon that everyone was learning something 
 
 Soon I realized C++ wasn't doing it for me and it was not something I wanted to do for the rest of my life so I switched fields and took my first ever course on web development on Udemy. It was a simple code along for a single HTML/CSS page with very basic stuff inside it but I really felt something refreshing in there.
 
-So this is where my journey as a web developer starts. Since then, I started taking online courses, reading books and building small projects of my own. After 2 years, in my university's final year project, I build an online SVG editor tool for the web with a friend where users could draw shapes, build animations and layer them and all kind of cool stuff designers do. You could say I bridged the gap between what I wanted to do when I joined the university which was graphic designing with what I was forced to do which was computer programming and I personally think this was the best thing that ever happened to me.
+So this is where my journey as a web developer starts. Since then, I started taking online courses, reading books and building small projects of my own. After 2 years, in my university's final year project, I built an online SVG editor tool for the web with a friend where users could draw shapes, build animations and layer them and do all kinds of cool stuff that graphic designers do. You could say I bridged the gap between what I wanted to do when I joined the university which was graphic designing with what I was forced to do which was computer programming and I personally think this was the best thing that ever happened to me.
 
 It reminds me of a quote I read somewhere on LinkedIn (or perhaps it was Twitter):
 
