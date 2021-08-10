@@ -24,7 +24,7 @@ Gotta say I have never heard and experienced a truer quote than this. So here's 
 
 <hr />
 
-You will find me on most social media sites. I don't have a large following anywhere though but I'd love to connect with more people. if you think I am good fit, I can also work on your projects. Here's my links:
+You will find me on most social media sites. I don't have a large following anywhere though but I'd love to connect with more people. if you think I am good fit, I can also work on your projects. You could even contact me if you're looking for some work. I have quite a few fun ideas in my backlog that I haven't been able to take time out for and I'd love to have someone build them for me. 
 
 [Email](mailto:yad@youraveragedevelopers.com)
 
